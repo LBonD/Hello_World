@@ -28,4 +28,3 @@ public class ArrSort {
         System.out.println(Arrays.toString(c));
     }
 }
-
